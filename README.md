@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently syudying at **SMKN 6 Surakarta**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Javascript, PHP, Java**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 **Want to ask more about me ? [here](https://github.com/FahriSulaimannn/Fahri-Sulaiman-Wahab/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first computer virus was created in 1983 and was called 'Elk Cloner'.**
 
  </div>
  
