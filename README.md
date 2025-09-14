@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently syudying at **SMKN 6 Surakarta**
+ 🔭 I’m currently syudying at **Muhammadiyah University of Surakarta**
  
- 🌱 I’m currently learning **Javascript, PHP, Java**
+ 🌱 I’m currently learning **Javascript, PHP, React, dan Phyton**
 
 💬 **Want to ask more about me ? [here](https://github.com/FahriSulaimannn/Fahri-Sulaiman-Wahab/issues)**
 
@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto: fahrisulaiman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
@@ -38,7 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=php,python,javascript,java,mysql,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=php,python,javascript,java,mysql,kotlin" />
+    <img src="https://skillicons.dev/icons?i=react" /><br>
 </div>
 
 <br/>
